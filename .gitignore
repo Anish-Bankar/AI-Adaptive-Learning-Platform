@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Databases
+*.sqlite3
+
+# OS generated files
+.DS_Store
