@@ -3,6 +3,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
 **Developed for Edunet Foundation & IBM SkillsBuild Internship**
 
 An adaptive, AI-driven Learning Management System (LMS) built with Python, Streamlit, and MongoDB. It uses Google's Gemini 2.5 Flash and FAISS vector databases to convert any Syllabus, PYQ, or Research Paper into a highly personalized, hierarchical learning workspace.
