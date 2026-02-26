@@ -9,6 +9,7 @@
 An adaptive, AI-driven Learning Management System (LMS) built with Python, Streamlit, and MongoDB. It uses Google's Gemini 2.5 Flash and FAISS vector databases to convert any Syllabus, PYQ, or Research Paper into a highly personalized, hierarchical learning workspace.
 
 Project Overview
+
 Traditional study platforms rely on static quizzes and rigid pathways. The AI Adaptive Learning Platform is a dynamic, multi-compartment Learning Management System designed to bridge the gap between official curriculum and actual exam reality.
 
 Powered by Google's Gemini API and FAISS vector search, this engine ingests raw PDF materials (Syllabi, PYQs, and Notes) to automatically construct a hierarchical knowledge map. It features an intelligent Gap Analysis Engine that audits past exam papers to inject "hidden" high-ROI topics into the student's timeline. By integrating MongoDB, the platform persistently tracks micro-level accuracy across specific subjects, utilizing active active recall and predictive burn-rate analytics to optimize a student's study trajectory.
