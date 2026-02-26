@@ -20,4 +20,4 @@ An adaptive, AI-driven Learning Management System (LMS) built with Python, Strea
 2. Install dependencies: `pip install -r requirements.txt`
 3. Ensure you have MongoDB running locally on port `27017`.
 4. Create a `.env` file in the root directory and add your Gemini API Key: `GEMINI_API_KEY="your_key_here"`
-5. Run the app: `streamlit run app1.py`
+5. Run the app: `streamlit run app.py`
